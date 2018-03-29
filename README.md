@@ -1,5 +1,16 @@
 # Vim Advanced Cheatsheet
 
+Table of contents
+1. [Search and Replace](#search-and-replace)
+2. [Registers](#registers)
+3. [Navigation](#navigation)
+4. [NORMAL mode](#normal-mode)
+5. [INSERT mode](#insert-mode)
+6. [VISUAL mode](#visual-mode)
+7. [Spelling](#spelling)
+8. [History](#history)
+9. [Commands](#commands)
+
 ## Search and Replace
 
 ### Search in current buffer
