@@ -1,5 +1,7 @@
 # Vim Advanced Cheatsheet
 
+Personally curated list of advanced Vim tricks inspired by http://vimcasts.org
+
 Table of contents
 1. [Search and Replace](#search-and-replace)
 2. [Registers](#registers)
